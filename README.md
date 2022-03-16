@@ -1,6 +1,6 @@
 # Manim-Maths-Animation
 
-All animations that I created are availaible on my youtube channel : https://www.youtube.com/channel/UC0tcSKnOH07Yy3oc9jFJAGw/videos
+All the animations that I created are availaible on my youtube channel : https://www.youtube.com/channel/UC0tcSKnOH07Yy3oc9jFJAGw/videos
 
 https://user-images.githubusercontent.com/83479553/158627147-feceeb08-3d0f-46ed-acf9-eb675da04dc6.mp4
 
